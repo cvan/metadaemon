@@ -1,0 +1,554 @@
+{
+  "objects": [
+    {
+      "name": "Podle",
+      "url": "https://podle.audio/",
+      "slug": "podle",
+      "tags": [
+        "demo",
+        "other"
+      ],
+      "image": "https://pwa.rocks/apps/podle.svg"
+    },
+    {
+      "name": "Soundslice",
+      "url": "https://www.soundslice.com/",
+      "slug": "soundslice",
+      "tags": [
+        "business",
+        "other"
+      ],
+      "image": "https://pwa.rocks/apps/soundslice.svg"
+    },
+    {
+      "name": "RioRun",
+      "url": "https://riorun.theguardian.com/",
+      "slug": "riorun",
+      "tags": [
+        "event",
+        "social"
+      ],
+      "image": "https://pwa.rocks/apps/riorun.svg"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://web.telegram.org/",
+      "slug": "telegram",
+      "tags": [
+        "business",
+        "social"
+      ],
+      "image": "https://pwa.rocks/apps/telegram.svg"
+    },
+    {
+      "name": "Chrome Status",
+      "url": "https://www.chromestatus.com/features",
+      "slug": "chrome-status",
+      "tags": [
+        "reference"
+      ],
+      "image": "https://pwa.rocks/apps/chrome-status.svg"
+    },
+    {
+      "name": "Google I/O",
+      "url": "https://events.google.com/io2016/",
+      "slug": "google-io",
+      "tags": [
+        "business",
+        "event"
+      ],
+      "image": "https://pwa.rocks/apps/google-io.svg"
+    },
+    {
+      "name": "JalanTikus",
+      "url": "https://app.jalantikus.com/",
+      "slug": "jalantikus",
+      "tags": [
+        "news",
+        "business"
+      ],
+      "image": "https://pwa.rocks/apps/jalantikus.svg"
+    },
+    {
+      "name": "Get Kana!",
+      "url": "https://getkana.com/app",
+      "slug": "get-kana",
+      "tags": [
+        "game",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/get-kana.svg"
+    },
+    {
+      "name": "Air Horner",
+      "url": "https://airhorner.com/",
+      "slug": "air-horner",
+      "tags": [
+        "tool",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/air-horner.svg"
+    },
+    {
+      "name": "Snapdrop",
+      "url": "https://snapdrop.net/",
+      "slug": "snapdrop",
+      "tags": [
+        "tool"
+      ],
+      "image": "https://pwa.rocks/apps/snapdrop.svg"
+    },
+    {
+      "name": "Firefox Platform Status",
+      "url": "https://platform-status.mozilla.org/",
+      "slug": "firefox",
+      "tags": [
+        "reference"
+      ],
+      "image": "https://pwa.rocks/apps/firefox.png"
+    },
+    {
+      "name": "Geo News",
+      "url": "https://m.geo.tv/",
+      "slug": "geo-news",
+      "tags": [
+        "news"
+      ],
+      "image": "https://pwa.rocks/apps/geo-news.svg"
+    },
+    {
+      "name": "Flipkart",
+      "url": "https://m.flipkart.com/",
+      "slug": "flipkart",
+      "tags": [
+        "business",
+        "shopping"
+      ],
+      "image": "https://pwa.rocks/apps/flipkart.svg"
+    },
+    {
+      "name": "Selio",
+      "url": "https://www.selioapp.com/",
+      "slug": "selio",
+      "tags": [
+        "shopping",
+        "business"
+      ],
+      "image": "https://pwa.rocks/apps/selio.svg"
+    },
+    {
+      "name": "Expense Manager",
+      "url": "https://demo.vaadin.com/expense-manager/",
+      "slug": "expense-manager",
+      "tags": [
+        "demo",
+        "tool"
+      ],
+      "image": "https://pwa.rocks/apps/expense-manager.svg"
+    },
+    {
+      "name": "SVGOMG",
+      "url": "https://jakearchibald.github.io/svgomg/",
+      "slug": "svgomg",
+      "tags": [
+        "demo",
+        "tool"
+      ],
+      "image": "https://pwa.rocks/apps/svgomg.svg"
+    },
+    {
+      "name": "Paper Planes",
+      "url": "https://paperplanes.world/",
+      "slug": "paper-planes",
+      "tags": [
+        "game",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/paper-planes.svg"
+    },
+    {
+      "name": "Piiko",
+      "url": "https://www.piiko.com/",
+      "slug": "piiko",
+      "tags": [
+        "business"
+      ],
+      "image": "https://pwa.rocks/apps/piiko.png"
+    },
+    {
+      "name": "The Billings Gazette",
+      "url": "https://billingsgazette.leeaws.com/pwa/",
+      "slug": "billings-gazette",
+      "tags": [
+        "news"
+      ],
+      "image": "https://pwa.rocks/apps/billings-gazette.svg"
+    },
+    {
+      "name": "Datememe",
+      "url": "https://www.datememe.com/",
+      "slug": "datememe",
+      "tags": [
+        "social"
+      ],
+      "image": "https://pwa.rocks/apps/datememe.svg"
+    },
+    {
+      "name": "2048 Puzzle",
+      "url": "https://2048-opera-pwa.surge.sh/",
+      "slug": "puzzle-2048",
+      "tags": [
+        "game",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/puzzle-2048.svg"
+    },
+    {
+      "name": "Oumy",
+      "url": "https://www.oumy.com/",
+      "slug": "oumy",
+      "tags": [
+        "business",
+        "other"
+      ],
+      "image": "https://pwa.rocks/apps/oumy.svg"
+    },
+    {
+      "name": "Digikala",
+      "url": "https://www.digikala.com/",
+      "slug": "digikala",
+      "tags": [
+        "business",
+        "shopping"
+      ],
+      "image": "https://pwa.rocks/apps/digikala.svg"
+    },
+    {
+      "name": "AliExpress",
+      "url": "https://m.aliexpress.com/",
+      "slug": "aliexpress",
+      "tags": [
+        "business",
+        "shopping"
+      ],
+      "image": "https://pwa.rocks/apps/aliexpress.svg"
+    },
+    {
+      "name": "Housing.com",
+      "url": "https://housing.com/",
+      "slug": "housing",
+      "tags": [
+        "business"
+      ],
+      "image": "https://pwa.rocks/apps/housing.svg"
+    },
+    {
+      "name": "Guitar Tuner",
+      "url": "https://guitar-tuner.appspot.com/",
+      "slug": "guitar-tuner",
+      "tags": [
+        "tool",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/guitar-tuner.svg"
+    },
+    {
+      "name": "Snapwat",
+      "url": "https://snapw.at/",
+      "slug": "snapwat",
+      "tags": [
+        "tool",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/snapwat.svg"
+    },
+    {
+      "name": "BaBe",
+      "url": "https://app.babe.co.id/",
+      "slug": "babe",
+      "tags": [
+        "news",
+        "business"
+      ],
+      "image": "https://pwa.rocks/apps/babe.svg"
+    },
+    {
+      "name": "Wave-PD1",
+      "url": "https://alexgibson.github.io/wavepad/",
+      "slug": "wave-pd1",
+      "tags": [
+        "tool",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/wave-pd1.svg"
+    },
+    {
+      "name": "Dev.Opera",
+      "url": "https://dev.opera.com/",
+      "slug": "dev-opera",
+      "tags": [
+        "reference"
+      ],
+      "image": "https://pwa.rocks/apps/dev-opera.svg"
+    },
+    {
+      "name": "Meatscope",
+      "url": "https://meatscope.camera/",
+      "slug": "meatscope",
+      "tags": [
+        "demo",
+        "tool"
+      ],
+      "image": "https://pwa.rocks/apps/meatscope.svg"
+    },
+    {
+      "name": "QR Code Scanner",
+      "url": "https://qrcodescan.in/",
+      "slug": "qrcode",
+      "tags": [
+        "demo",
+        "tool"
+      ],
+      "image": "https://pwa.rocks/apps/qrcode.svg"
+    },
+    {
+      "name": "Emojoy",
+      "url": "https://jakearchibald-gcm.appspot.com/",
+      "slug": "emojoy",
+      "tags": [
+        "demo",
+        "social"
+      ],
+      "image": "https://pwa.rocks/apps/emojoy.svg"
+    },
+    {
+      "name": "ReactHN",
+      "url": "https://react-hn.appspot.com/",
+      "slug": "reacthn",
+      "tags": [
+        "news",
+        "social"
+      ],
+      "image": "https://pwa.rocks/apps/reacthn.svg"
+    },
+    {
+      "name": "Web Flap",
+      "url": "https://www.progressivewebflap.com/",
+      "slug": "web-flap",
+      "tags": [
+        "game",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/web-flap.png"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://app.ft.com/",
+      "slug": "financial-times",
+      "tags": [
+        "news"
+      ],
+      "image": "https://pwa.rocks/apps/financial-times.svg"
+    },
+    {
+      "name": "The Session",
+      "url": "https://thesession.org/",
+      "slug": "session",
+      "tags": [
+        "other"
+      ],
+      "image": "https://pwa.rocks/apps/session.svg"
+    },
+    {
+      "name": "PolyMail",
+      "url": "https://poly-mail.appspot.com/",
+      "slug": "poly-mail",
+      "tags": [
+        "demo",
+        "social"
+      ],
+      "image": "https://pwa.rocks/apps/poly-mail.svg"
+    },
+    {
+      "name": "Voice Memos",
+      "url": "https://voice-memos.appspot.com/",
+      "slug": "voice-memos",
+      "tags": [
+        "tool",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/voice-memos.svg"
+    },
+    {
+      "name": "Cloud Four",
+      "url": "https://cloudfour.com/",
+      "slug": "cloudfour",
+      "tags": [
+        "business",
+        "other"
+      ],
+      "image": "https://pwa.rocks/apps/cloud-four.svg"
+    },
+    {
+      "name": "Polytimer",
+      "url": "https://polytimer.rocks/",
+      "slug": "polytimer",
+      "tags": [
+        "demo",
+        "tool"
+      ],
+      "image": "https://pwa.rocks/apps/polytimer.svg"
+    },
+    {
+      "name": "bubble",
+      "url": "https://samsunginternet.github.io/bubble/",
+      "slug": "bubble",
+      "tags": [
+        "demo",
+        "tool",
+        "viewer",
+        "vr"
+      ],
+      "image": "https://pwa.rocks/apps/bubble.svg"
+    },
+    {
+      "name": "CODE.NASA.GOV",
+      "url": "https://code.nasa.gov/",
+      "slug": "NASA-Code",
+      "tags": [
+        "nasa",
+        "code"
+      ],
+      "image": "https://pwa.rocks/apps/nasa_logo.svg"
+    },
+    {
+      "name": "Inbox Attack",
+      "url": "https://andreasbovens.github.io/inbox-attack/",
+      "slug": "inbox-attack",
+      "tags": [
+        "game",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/inbox-attack.svg"
+    },
+    {
+      "name": "Smaller Pictures",
+      "url": "https://smaller-pictures.appspot.com/",
+      "slug": "smaller-pictures",
+      "tags": [
+        "demo",
+        "tool"
+      ],
+      "image": "https://pwa.rocks/apps/smaller-pictures.svg"
+    },
+    {
+      "name": "Resilient Web Design",
+      "url": "https://resilientwebdesign.com/",
+      "slug": "resilient-web-design",
+      "tags": [
+        "other"
+      ],
+      "image": "https://pwa.rocks/apps/resilient-web-design.svg"
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://www.pokedex.org/",
+      "slug": "pokedex",
+      "tags": [
+        "reference"
+      ],
+      "image": "https://pwa.rocks/apps/pokedex.png"
+    },
+    {
+      "name": "Konga EZ",
+      "url": "https://konga.com/",
+      "slug": "konga",
+      "tags": [
+        "business",
+        "shopping"
+      ],
+      "image": "https://pwa.rocks/apps/konga.svg"
+    },
+    {
+      "name": "English Accents Map",
+      "url": "https://www.englishaccentsmap.com/",
+      "slug": "english-accents-map",
+      "tags": [
+        "reference",
+        "demo",
+        "social",
+        "other"
+      ],
+      "image": "https://pwa.rocks/apps/english-accents-map.svg"
+    },
+    {
+      "name": "Currency Converter",
+      "url": "https://currency-x.com/",
+      "slug": "currency-x",
+      "tags": [
+        "tool"
+      ],
+      "image": "https://pwa.rocks/apps/currency-x.svg"
+    },
+    {
+      "name": "Wiki Offline",
+      "url": "https://wiki-offline.jakearchibald.com/",
+      "slug": "wiki-offline",
+      "tags": [
+        "demo",
+        "reference"
+      ],
+      "image": "https://pwa.rocks/apps/wiki-offline.svg"
+    },
+    {
+      "name": "Notes",
+      "url": "https://sii.im/playground/notes",
+      "slug": "notes",
+      "tags": [
+        "tool",
+        "demo"
+      ],
+      "image": "https://pwa.rocks/apps/notes.svg"
+    },
+    {
+      "name": "WebNFC Shopping Cart",
+      "url": "https://webnfc-shoppingcart.appspot.com/",
+      "slug": "webnfc",
+      "tags": [
+        "demo",
+        "shopping"
+      ],
+      "image": "https://pwa.rocks/apps/webnfc.svg"
+    },
+    {
+      "name": "Spaces",
+      "url": "https://spaces.google.com/",
+      "slug": "spaces",
+      "tags": [
+        "social",
+        "other"
+      ],
+      "image": "https://pwa.rocks/apps/spaces.svg"
+    },
+    {
+      "name": "Progressive Beer",
+      "url": "https://deanhume.github.io/beer/",
+      "slug": "prog-beer",
+      "tags": [
+        "demo",
+        "reference"
+      ],
+      "image": "https://pwa.rocks/apps/prog-beer.svg"
+    },
+    {
+      "name": "Flipboard",
+      "url": "https://flipboard.com/",
+      "slug": "flipboard",
+      "tags": [
+        "news",
+        "social"
+      ],
+      "image": "https://pwa.rocks/apps/flipboard.svg"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Metadaemon",
+  "short_name": "Meta",
+  "description": "Metadata service.",
+  "start_url": "./?src=manifest",
+  "display": "fullscreen",
+  "theme_color": "#b10dc9",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "/public/favicon.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/favicon.ico",
+      "sizes": "16x16 32x32 48x48 64x64 100x100",
+      "type": "image/x-icon"
+    }
+  ],
+  "serviceworker": {
+    "src": "sw.js",
+    "scope": "/",
+    "use_cache": true
+  },
+  "main": "app.js",
+  "dependencies": {
+    "pwacompat": "^1.0.2/pwacompat.min.js",
+    "vue": "^2.1.10"
+  },
+  "data": {
+    "sites": [
+      "https://cloudfour.com/",
+      "https://www.piiko.com/",
+      "https://m.aliexpress.com/",
+      "https://currency-x.com/",
+      "https://riorun.theguardian.com/",
+      "https://webnfc-shoppingcart.appspot.com/",
+      "https://thesession.org/",
+      "https://jakearchibald.github.io/svgomg/",
+      "https://wiki-offline.jakearchibald.com/",
+      "https://m.geo.tv/",
+      "https://app.ft.com/",
+      "https://getkana.com/app",
+      "https://app.babe.co.id/",
+      "https://samsunginternet.github.io/bubble/",
+      "https://paperplanes.world/",
+      "https://smaller-pictures.appspot.com/",
+      "https://podle.audio/",
+      "https://dev.opera.com/",
+      "https://web.telegram.org/",
+      "https://www.selioapp.com/",
+      "https://spaces.google.com/",
+      "https://jakearchibald-gcm.appspot.com/",
+      "https://resilientwebdesign.com/",
+      "https://demo.vaadin.com/expense-manager/",
+      "https://konga.com/",
+      "https://guitar-tuner.appspot.com/",
+      "https://billingsgazette.leeaws.com/pwa/",
+      "https://meatscope.camera/",
+      "https://m.flipkart.com/",
+      "https://qrcodescan.in/",
+      "https://housing.com/",
+      "https://platform-status.mozilla.org/",
+      "https://www.soundslice.com/",
+      "https://voice-memos.appspot.com/",
+      "https://snapdrop.net/",
+      "https://app.jalantikus.com/",
+      "https://poly-mail.appspot.com/",
+      "https://andreasbovens.github.io/inbox-attack/",
+      "https://events.google.com/io2016/",
+      "https://www.oumy.com/",
+      "https://www.englishaccentsmap.com/",
+      "https://www.progressivewebflap.com/",
+      "https://flipboard.com/",
+      "https://2048-opera-pwa.surge.sh/",
+      "https://www.digikala.com/",
+      "https://react-hn.appspot.com/",
+      "https://alexgibson.github.io/wavepad/",
+      "https://deanhume.github.io/beer/",
+      "https://airhorner.com/",
+      "https://sii.im/playground/notes",
+      "https://www.datememe.com/",
+      "https://www.pokedex.org/",
+      "https://snapw.at/",
+      "https://www.chromestatus.com/features",
+      "https://code.nasa.gov/",
+      "https://polytimer.rocks/"
+    ]
+  }
+}

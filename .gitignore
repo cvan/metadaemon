@@ -1,0 +1,14 @@
+*.log*
+*.pid
+*.seed
+.DS_Store
+.config
+.lock-wscript
+.travis.config.tgz
+_prod
+build/Release
+coverage
+lib-cov
+logs
+node_modules
+pids
